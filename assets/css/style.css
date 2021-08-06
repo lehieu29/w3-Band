@@ -336,6 +336,7 @@ html {
 .place .buy:hover {
     background-color: #ccc;
     color: #000;
+    cursor: pointer;
 }
 
 .contact-content {
