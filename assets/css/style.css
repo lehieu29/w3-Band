@@ -380,6 +380,7 @@ html {
 .form-submit:hover {
     background-color: #ccc;
     color: #000;
+    cursor: pointer;
 }
 
 .map img {
